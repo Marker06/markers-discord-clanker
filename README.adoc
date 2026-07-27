@@ -4,3 +4,5 @@ Author Marker06
 This is a project that probably will increase in scope, but for now it will serve the purpose of syncing spesific roles between Twitch and Discord.
 
 It will utilize the Twitch API to check who has what role, and apply a role spesified in a spesific Discord Server.
+
+The development environment is a nix devshell. Because Nix is cool B)
