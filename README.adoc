@@ -5,4 +5,11 @@ This is a project that probably will increase in scope, but for now it will serv
 
 It will utilize the Twitch API to check who has what role, and apply a role spesified in a spesific Discord Server.
 
-The development environment is a nix devshell. Because Nix is cool B)
+The development environment uses devenv, which is a framework for base nix development shells. 
+
+Devenv Usage:
+´´´
+$ devenv shell
+´´´
+
+Why devenv? Because Nix is cool B)
