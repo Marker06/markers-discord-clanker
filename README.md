@@ -5,14 +5,4 @@ This is a project that probably will increase in scope, but for now it will serv
 
 It will utilize the Twitch API to check who has what role, and apply a role spesified in a spesific Discord Server.
 
-The development environment requires you have devenv installed, which is a framework for base nix development shells. 
-
-Devenv Usage:
-
-´´´bash
-git clone git@github.com:Marker06/markers-discord-clanker.git
-cd markers-discord-clanker
-devenv shell
-´´´
-
-Why devenv? Because Nix is cool B)
+The development environment is a nix devshell. Because Nix is cool B)
